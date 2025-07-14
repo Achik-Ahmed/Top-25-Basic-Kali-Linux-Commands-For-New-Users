@@ -2,6 +2,8 @@
 
 If you're new to Kali Linux or just starting to explore the Linux terminal, then this guide is for you.  In this GitHub repo, I’m sharing **25 easy and useful kali linux commands** that every beginner should learn.
 
+![Basic Kali Linux Commands for Beginners](https://raw.githubusercontent.com/Achik-Ahmed/Top-25-Basic-Kali-Linux-Commands-For-New-Users/refs/heads/main/Basic%20Kali%20Linux%20Commands%20for%20Beginners.jpg)
+
 ## Basic Kali Linux Commands
 Here is a list of 25 Kali Linux commands for new users to use kali linux comfortably and easily:
 
